@@ -1,0 +1,14 @@
+# Built binaries
+/health-probe
+/health-probe.exe
+
+# Go test and coverage artifacts
+*.test
+*.out
+coverage.txt
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
